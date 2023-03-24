@@ -20,6 +20,11 @@ var userPassword = "";
 var passCode = []
 
 var userPassLength1 = prompt(" How long do you want the password to be")
+if(userPassLength1 != Number || userPassLength1 < 8 || userPassLength1 > 128){
+    alert("please choose a valid lenth and it should be a number between 8 to 128")
+    userPassLength1 = prompt(" How long do you want the password to be")
+}
+
 var smallLetters1 = confirm ("do you want to include a small letters")
 var capitalLetters1 = confirm ("do you want to include a capital letters")
 var passNumbers1 = confirm ("do you want to include a numbers")

@@ -34,3 +34,10 @@ ITS Done
 ![alt text](./assets/5.png)
 ![alt text](./assets/6.png)
 ![alt text](./assets/7.png)
+
+# Live URL 
+
+https://aiahmed01.github.io/week-3-challenge/
+
+# Github Link
+https://github.com/Aiahmed01/week-3-challenge
